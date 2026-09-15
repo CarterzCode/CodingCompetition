@@ -4,7 +4,6 @@ Carter Q - September 2026
 """
 
 def main() -> None:
-  pass # remove me
 
   # input
   n: int = int(input())
